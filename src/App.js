@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+// in src/App.js
+import * as React from "react";
+import {
+  Admin,
+  Resource,
+  ListGuesser,
+  EditGuesser,
+  ShowGuesser,
+} from "react-admin";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import AssignmentIcon from "@material-ui/icons/Assignment";
+
+import { BeerList } from "./beerList";
+
+import dataProvider from "./dataProvider";
+
+// const dataProvider = jsonServerProvider("http://localhost:4000/admin");
+console.log("::::::::dataProvider::::::", dataProvider);
+const App = () => (
+  <Admin
+    dataProvider={dataProvider}
+    // dashboard={Dashboard}
+  >
+    <Resource name="beerlist" list={BeerList} icon={AssignmentIcon} />
+  </Admin>
+);
 
 export default App;
