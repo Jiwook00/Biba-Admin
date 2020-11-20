@@ -1,16 +1,15 @@
 # Project Biba 관리자 페이지 만들기
-![page](https://user-images.githubusercontent.com/66004962/99756513-b335bc80-2b30-11eb-87a8-6c675e774c00.png)
-
-
-![biba](https://user-images.githubusercontent.com/65945933/98622763-9ab5ed00-234d-11eb-9eff-c0fe0b403bc5.png)
-
 
 ### [BIBA! 바로가기](https://biba.website)
+
+
+![page](https://user-images.githubusercontent.com/66004962/99756513-b335bc80-2b30-11eb-87a8-6c675e774c00.png)
+
 
 ## 블로그
 
 ### [React-admin으로 관리자 페이지 만들기 : X-Total-Count 에러](https://velog.io/@beton/React-admin-X-Total-Count)
-
+<br />
 ## 주요 기능별 시연 GIF
 
 <details>
