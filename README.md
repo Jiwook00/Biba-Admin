@@ -1,6 +1,6 @@
 # Project Biba 관리자 페이지 만들기
 
-### [BIBA! 바로가기](https://biba.website)
+### 🍺 [BIBA! 바로가기](https://biba.website)
 
 
 ![page](https://user-images.githubusercontent.com/66004962/99756513-b335bc80-2b30-11eb-87a8-6c675e774c00.png)
