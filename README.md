@@ -6,10 +6,6 @@
 ![page](https://user-images.githubusercontent.com/66004962/99756513-b335bc80-2b30-11eb-87a8-6c675e774c00.png)
 
 
-## 블로그
-
-### [React-admin으로 관리자 페이지 만들기 : X-Total-Count 에러](https://velog.io/@beton/React-admin-X-Total-Count)
-<br />
 
 ## 주요 기능별 시연 GIF
 
@@ -46,3 +42,9 @@
  ![삭제](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/15d444f6-b535-407d-b577-457773e1fdbb/.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201120%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201120T035738Z&X-Amz-Expires=86400&X-Amz-Signature=732179710db2e2af76bdeac5d5d4d538d77a830971392c90405713150fd3fdc9&X-Amz-SignedHeaders=host)
   
 </details>
+
+## 블로그
+
+### [React-admin으로 관리자 페이지 만들기 : X-Total-Count 에러](https://velog.io/@beton/React-admin-X-Total-Count)
+<br />
+
