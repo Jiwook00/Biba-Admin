@@ -9,6 +9,7 @@
 ## 블로그
 
 ### [React-admin으로 관리자 페이지 만들기 : X-Total-Count 에러](https://velog.io/@beton/React-admin-X-Total-Count)
+### [React-admin으로 관리자 페이지 만들기 : 페이지네이션](https://velog.io/@beton/React-admin-Pagination)
 <br />
 
 
