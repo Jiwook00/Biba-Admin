@@ -1,6 +1,6 @@
 # Project Biba 관리자 페이지 만들기
 
-[test](#test)
+[test](https://github.com/Jiwook00/Biba-Admin/blob/master/README.md#test)
 
 ### 🍺 [BIBA! 바로가기](https://biba.website)
 
