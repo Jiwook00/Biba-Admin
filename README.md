@@ -1,3 +1,5 @@
+- [이동하기](#이동하기-테스트)
+
 # Project Biba 관리자 페이지 만들기
 
 [test](https://github.com/Jiwook00/Biba-Admin#test)
@@ -13,8 +15,6 @@
 ### [React-admin으로 관리자 페이지 만들기 : X-Total-Count 에러](https://velog.io/@beton/React-admin-X-Total-Count)
 ### [React-admin으로 관리자 페이지 만들기 : 페이지네이션](https://velog.io/@beton/React-admin-Pagination)
 <br />
-
-[test](#test)
 
 ## 주요 기능별 시연 GIF
 
@@ -52,3 +52,5 @@
   
 </details>
 
+
+## 이동하기 테스트
